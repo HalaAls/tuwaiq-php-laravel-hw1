@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Lateef:wght@200;300;400;500;600;700;800&display=swap");
+body {
+  font-family: "Lateef", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.video-container {
+  /* position: relative; */
+}
+
+.video-text {
+  /* position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 150px; */
+}
